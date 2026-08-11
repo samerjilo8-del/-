@@ -1,0 +1,17 @@
+.gradle
+.idea
+*.iml
+*.apk
+*.aar
+*.ap_
+*.aab
+*.so
+*.dylib
+*.dll
+*.exe
+.DS_Store
+out/
+build/
+.env
+*.jks
+*.keystore
