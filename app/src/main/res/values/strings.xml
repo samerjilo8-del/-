@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Talp Smart Teacher</string>
+    
+    <!-- Authentication -->
+    <string name="teacher_login">تسجيل دخول المعلم</string>
+    <string name="student_login">تسجيل دخول الطالب</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="student_code">الكود الدراسي</string>
+    <string name="login">دخول</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="login_success">تم تسجيل الدخول</string>
+    <string name="login_failed">فشل تسجيل الدخول</string>
+    
+    <!-- Teacher Dashboard -->
+    <string name="welcome_teacher">مرحبا الأستاذ %s</string>
+    <string name="settings">الإعدادات</string>
+    <string name="manage_students">إدارة الطلاب</string>
+    <string name="homework_duties">الواجبات والوظائف</string>
+    <string name="weekly_schedule">البرنامج الأسبوعي</string>
+    <string name="grades">العلامات</string>
+    <string name="exam_schedule">برنامج الامتحانات والمذاكرات</string>
+    <string name="notes">الملاحظات</string>
+    
+    <!-- Student Dashboard -->
+    <string name="welcome_student">أهلا %s</string>
+    <string name="today_date">اليوم: %s</string>
+    <string name="hijri_date">التاريخ الهجري: %s</string>
+    <string name="gregorian_date">التاريخ الميلادي: %s</string>
+    <string name="my_homework">واجباتي</string>
+    <string name="my_grades">علاماتي</string>
+    <string name="my_notes">ملاحظاتي</string>
+    <string name="exam_program">برنامج الامتحان</string>
+    
+    <!-- Common -->
+    <string name="add">إضافة</string>
+    <string name="edit">تعديل</string>
+    <string name="delete">حذف</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="back">رجوع</string>
+    <string name="no_data">لا توجد بيانات</string>
+    <string name="error">خطأ</string>
+    <string name="success">نجح</string>
+    
+    <!-- Manage Students -->
+    <string name="select_class">اختر الصف</string>
+    <string name="select_section">اختر الشعبة</string>
+    <string name="student_name">اسم الطالب</string>
+    <string name="student_code_hint">4 أرقام</string>
+    <string name="add_student">إضافة طالب</string>
+    <string name="edit_student">تعديل الطالب</string>
+    <string name="delete_student">حذف الطالب</string>
+    <string name="are_you_sure">هل أنت متأكد؟</string>
+    
+    <!-- Homework -->
+    <string name="homework_title">عنوان الواجب</string>
+    <string name="homework_description">وصف الواجب</string>
+    <string name="due_date">تاريخ التسليم</string>
+    <string name="add_homework">إضافة واجب</string>
+    <string name="homework_added">تم إضافة الواجب</string>
+    <string name="new_homework_notification">واجب جديد: %s</string>
+    
+    <!-- Schedule -->
+    <string name="sunday">الأحد</string>
+    <string name="monday">الاثنين</string>
+    <string name="tuesday">الثلاثاء</string>
+    <string name="wednesday">الأربعاء</string>
+    <string name="thursday">الخميس</string>
+    <string name="period">الحصة</string>
+    
+    <!-- Grades -->
+    <string name="student_name_header">اسم الطالب</string>
+    <string name="oral1">شفهي 1</string>
+    <string name="oral2">شفهي 2</string>
+    <string name="study1">مذاكرة 1</string>
+    <string name="study2">مذاكرة 2</string>
+    <string name="exam">امتحان</string>
+    <string name="total">المجموع</string>
+    <string name="first_semester">الفصل الأول</string>
+    <string name="second_semester">الفصل الثاني</string>
+    <string name="grade_added">تم إضافة العلامة</string>
+    <string name="new_grade_notification">علامة جديدة في %s</string>
+    
+    <!-- Notes -->
+    <string name="note_content">محتوى الملاحظة</string>
+    <string name="add_note">إضافة ملاحظة</string>
+    <string name="note_added">تم إضافة الملاحظة</string>
+    <string name="new_note_notification">ملاحظة جديدة من المعلم</string>
+    
+    <!-- Subjects -->
+    <string name="manage_subjects">إدارة المواد</string>
+    <string name="subject_name">اسم المادة</string>
+    <string name="subject_sections">أقسام المادة</string>
+    <string name="add_subject">إضافة مادة</string>
+    <string name="edit_subject">تعديل المادة</string>
+    <string name="arabic_language">اللغة العربية</string>
+    <string name="reading">قراءة</string>
+    <string name="writing">إملاء</string>
+    <string name="song">نشيد</string>
+    
+    <!-- Settings -->
+    <string name="change_password">تغيير كلمة المرور</string>
+    <string name="old_password">كلمة المرور القديمة</string>
+    <string name="new_password">كلمة المرور الجديدة</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="password_changed">تم تغيير كلمة المرور</string>
+    <string name="password_mismatch">كلمات المرور غير متطابقة</string>
+    
+    <!-- Footer -->
+    <string name="footer_credit">تصميم الأستاذ: محمد جيلو</string>
+    
+    <!-- Exam Schedule -->
+    <string name="exam_date">تاريخ الامتحان</string>
+    <string name="exam_subject">مادة الامتحان</string>
+    <string name="add_exam">إضافة امتحان</string>
+    
+    <!-- Notifications -->
+    <string name="homework_channel_name">إشعارات الواجبات</string>
+    <string name="homework_channel_description">تلقي إشعارات عند إضافة واجبات جديدة</string>
+    <string name="grades_channel_name">إشعارات العلامات</string>
+    <string name="grades_channel_description">تلقي إشعارات عند إضافة علامات جديدة</string>
+    <string name="notes_channel_name">إشعارات الملاحظات</string>
+    <string name="notes_channel_description">تلقي إشعارات عند إضافة ملاحظات جديدة</string>
+</resources>
