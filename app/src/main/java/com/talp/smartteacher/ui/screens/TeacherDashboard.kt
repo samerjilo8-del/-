@@ -4,7 +4,6 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -38,7 +37,7 @@ import androidx.navigation.NavController
 @Composable
 fun TeacherDashboard(
     navController: NavController,
-    teacherName: String = "أستاذ"
+    teacherName: String = "استاذ"
 ) {
     var selectedTab by remember { mutableStateOf(0) }
     val tabs = listOf("الطلاب", "الواجبات", "الجدول", "العلامات", "الملاحظات")
